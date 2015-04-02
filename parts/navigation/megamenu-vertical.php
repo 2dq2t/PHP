@@ -1,32 +1,46 @@
 <!-- ================================== MEGAMENU VERTICAL ================================== -->
 <div class="row">
-    <div class="col-xs-12 col-lg-4">
+    <div class="col-xs-12 col-lg-3">
         <ul>
-            <li><a href="#">Computer Cases &amp; Accessories</a></li>
-            <li><a href="#">CPUs, Processors</a></li>
-            <li><a href="#">Fans, Heatsinks &amp; Cooling</a></li>
-            <li><a href="#">Graphics, Video Cards</a></li>
-            <li><a href="#">Interface, Add-On Cards</a></li>
-            <li><a href="#">Laptop Replacement Parts</a></li>
-            <li><a href="#">Memory (RAM)</a></li>
-            <li><a href="#">Motherboards</a></li>
-            <li><a href="#">Motherboard &amp; CPU Combos</a></li>
-            <li><a href="#">Motherboard Components &amp; Accs</a></li>
+            <li><a href="#">Bí ngọn</a></li>
+            <li><a href="#">Cải bẹ trắng</a></li>
+            <li><a href="#">Cải chíp</a></li>
+            <li><a href="#">Cải làn</a></li>
+            <li><a href="#">Cải ngọt</a></li>
+            <li><a href="#">Dền đỏ</a></li>
+            <li><a href="#">Ngọn su su</a></li>
+            <li><a href="#">Rau muống</a></li>
+            <li><a href="#">Xà lách cuộn</a></li>
         </ul>
     </div>
 
-    <div class="col-xs-12 col-lg-4">
+    <div class="col-xs-12 col-lg-3">
         <ul>
-            <li><a href="#">Power Supplies Power</a></li>
-            <li><a href="#">Power Supply Testers Sound</a></li>
-            <li><a href="#">Sound Cards (Internal)</a></li>
-            <li><a href="#">Video Capture &amp; TV Tuner Cards</a></li>
-            <li><a href="#">Other</a></li>
+            <li><a href="#">Bí ngọn</a></li>
+            <li><a href="#">Cải bẹ trắng</a></li>
+            <li><a href="#">Cải chíp</a></li>
+            <li><a href="#">Cải làn</a></li>
+            <li><a href="#">Cải ngọt</a></li>
+            <li><a href="#">Dền đỏ</a></li>
+            <li><a href="#">Ngọn su su</a></li>
+            <li><a href="#">Rau muống</a></li>
+            <li><a href="#">Xà lách cuộn</a></li>
         </ul>
     </div>
 
-    <div class="dropdown-banner-holder">
-        <a href="#"><img alt="" src="assets/images/banners/banner-side.png" /></a>
+    <div class="col-xs-12 col-lg-3">
+        <ul>
+            <li><a href="#">Bí ngọn</a></li>
+            <li><a href="#">Cải bẹ trắng</a></li>
+            <li><a href="#">Cải chíp</a></li>
+            <li><a href="#">Cải làn</a></li>
+            <li><a href="#">Cải ngọt</a></li>
+            <li><a href="#">Dền đỏ</a></li>
+            <li><a href="#">Ngọn su su</a></li>
+            <li><a href="#">Rau muống</a></li>
+            <li><a href="#">Xà lách cuộn</a></li>
+        </ul>
     </div>
+
 </div>
 <!-- ================================== MEGAMENU VERTICAL ================================== -->
