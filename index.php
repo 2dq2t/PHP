@@ -51,7 +51,7 @@
 	    <meta name="keywords" content="MediaCenter, Template, eCommerce">
 	    <meta name="robots" content="all">
 
-	    <title>MediaCenter - Responsive eCommerce Template</title>
+	    <title>Ai mua rau khong nao</title>
 
 	    <!-- Bootstrap Core CSS -->
 	    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -104,40 +104,6 @@
 		<?php require_once MC_ROOT.'/pages/'.$page.'.php'; ?>
 		<?php require MC_ROOT.'/parts/section/footer.php';?>
 	</div><!-- /.wrapper -->
-
-	<!-- For demo purposes – can be removed on production -->
-	
-	<div class="config open">
-		<div class="config-options">
-			<h4>Pages</h4>
-			<ul class="list-unstyled animate-dropdown">
-				<li class="dropdown">
-					<button class="dropdown-toggle btn le-button btn-block" data-toggle="dropdown">View Pages</button>
-					<ul class="dropdown-menu">
-						<?php foreach ( $pages as $key => $packagePage ) : ?>
-						<li><a href="index.php?page=<?php echo $key;?>&amp;style=<?php echo $_GET['style'];?>"><?php echo $packagePage;?></a></li>
-						<?php endforeach; ?>
-					</ul>	
-				</li>
-			</ul>
-			<h4>Header Styles</h4>
-			<ul class="list-unstyled">
-				<li><a href="index.php?<?php echo htmlspecialchars($_SERVER['QUERY_STRING']);?>&amp;style=alt1">Header 1</a></li>
-				<li><a href="index.php?<?php echo htmlspecialchars($_SERVER['QUERY_STRING']);?>&amp;style=alt">Header 2</a></li>
-			</ul>
-			<h4>Colors</h4>
-			<ul class="list-unstyled">
-				<li><a class="changecolor green-text" href="#" title="Green color">Green</a></li>
-                <li><a class="changecolor blue-text" href="#" title="Blue color">Blue</a></li>
-                <li><a class="changecolor red-text" href="#" title="Red color">Red</a></li>
-                <li><a class="changecolor orange-text" href="#" title="Orange color">Orange</a></li>
-                <li><a class="changecolor navy-text" href="#" title="Navy color">Navy</a></li>
-                <li><a class="changecolor dark-green-text" href="#" title="Darkgreen color">Dark Green</a></li>
-			</ul>
-		</div>
-		<a class="show-theme-options" href="#"><i class="fa fa-wrench"></i></a>
-	</div>
-	<!-- For demo purposes – can be removed on production : End -->
 
 	<!-- JavaScripts placed at the end of the document so the pages load faster -->
 	<script src="assets/js/jquery-1.10.2.min.js"></script>

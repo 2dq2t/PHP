@@ -1,10 +1,7 @@
 <div class="top-cart-row-container">
     <div class="wishlist-compare-holder">
         <div class="wishlist ">
-            <a href="#"><i class="fa fa-heart"></i> wishlist <span class="value">(21)</span> </a>
-        </div>
-        <div class="compare">
-            <a href="#"><i class="fa fa-exchange"></i> compare <span class="value">(2)</span> </a>
+            <a href="#"><i class="fa fa-heart"></i> Yêu thích <span class="value">(21)</span> </a>
         </div>
     </div>
 
@@ -20,9 +17,9 @@
                 </div>
 
                 <div class="total-price-basket"> 
-                    <span class="lbl">your cart:</span>
+                    <span class="lbl">giỏ hàng:</span>
                     <span class="total-price">
-                        <span class="sign">$</span><span class="value">3219,00</span>
+                        <span class="value">350.000</span><span class="sign"> đ</span>
                     </span>
                 </div>
             </a>
@@ -37,8 +34,8 @@
                                 </div>
                             </div>
                             <div class="col-xs-8 col-sm-8 no-margin">
-                                <div class="title">Blueberry</div>
-                                <div class="price">$270.00</div>
+                                <div class="title">Rau bắp cải</div>
+                                <div class="price">58.000 đ</div>
                             </div>
                         </div>
                         <a class="close-btn" href="#"></a>
@@ -54,8 +51,8 @@
                                 </div>
                             </div>
                             <div class="col-xs-8 col-sm-8 no-margin">
-                                <div class="title">Blueberry</div>
-                                <div class="price">$270.00</div>
+                                <div class="title">Khoai tây</div>
+                                <div class="price">122.000 đ</div>
                             </div>
                         </div>
                         <a class="close-btn" href="#"></a>
@@ -71,8 +68,8 @@
                                 </div>
                             </div>
                             <div class="col-xs-8 col-sm-8 no-margin">
-                                <div class="title">Blueberry</div>
-                                <div class="price">$270.00</div>
+                                <div class="title">Nấm kim châm</div>
+                                <div class="price">120.000 đ</div>
                             </div>
                         </div>
                         <a class="close-btn" href="#"></a>
@@ -84,10 +81,10 @@
                     <div class="basket-item">
                         <div class="row">
                             <div class="col-xs-12 col-sm-6">
-                                <a href="index.php?page=cart" class="le-button inverse">View cart</a>
+                                <a href="index.php?page=cart" class="le-button inverse">Xem giỏ hàng</a>
                             </div>
                             <div class="col-xs-12 col-sm-6">
-                                <a href="index.php?page=checkout" class="le-button">Checkout</a>
+                                <a href="index.php?page=checkout" class="le-button">Thanh toán</a>
                             </div>
                         </div>
                     </div>
