@@ -8,7 +8,7 @@
                 <li><a href="index.php?page=faq">Giới Thiệu</a></li>
                 <li><a href="index.php?page=contact">Sản phẩm</a></li>
                 <li><a href="index.php?page=blog">Tin Tức</a></li>
-                <li><a href="index.php?page=faq">Bản đồ</a></li>
+                <li><a href="index.php?page=place">Địa điểm phân phối</a></li>
                 <li><a href="index.php?page=contact">Liên Hệ</a></li>
 
             </ul>
