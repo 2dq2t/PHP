@@ -16,6 +16,7 @@
 
         <div class="col-xs-12 col-sm-6 no-margin">
             <ul class="right">
+                <li><a href="#"><i class="fa fa-heart"></i> Yêu thích <span class="value">(21)</span></a></li>
                 <li><a href="index.php?page=authentication">Đăng Ký</a></li>
                 <li><a href="index.php?page=authentication">Đăng Nhập</a></li>
             </ul>

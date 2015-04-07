@@ -6,11 +6,11 @@
 			<?php require_once MC_ROOT.'/parts/widgets/header/logo.php'; ?>
 		</div><!-- /.logo-holder -->
 
-		<div class="col-xs-12 col-sm-12 col-md-5 top-search-holder no-margin">
+		<div class="col-xs-12 col-sm-12 col-md-7 top-search-holder no-margin">
 			<?php require_once MC_ROOT.'/parts/widgets/header/search-bar.php'; ?>
 		</div><!-- /.top-search-holder -->
 
-		<div class="col-xs-12 col-sm-12 col-md-4 top-cart-row no-margin">
+		<div class="col-xs-12 col-sm-12 col-md-2a top-cart-row no-margin">
 			<?php require_once MC_ROOT.'/parts/widgets/header/shopping-cart-dropdown.php'; ?>
 		</div><!-- /.top-cart-row -->
 

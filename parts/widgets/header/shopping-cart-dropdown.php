@@ -1,10 +1,5 @@
 <div class="top-cart-row-container">
-    <div class="wishlist-compare-holder">
-        <div class="wishlist ">
-            <a href="#"><i class="fa fa-heart"></i> Yêu thích <span class="value">(21)</span> </a>
-        </div>
-    </div>
-
+    
     <!-- ============================================================= SHOPPING CART DROPDOWN ============================================================= -->
     <div class="top-cart-holder dropdown animate-dropdown">
         
